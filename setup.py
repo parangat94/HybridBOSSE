@@ -45,7 +45,7 @@ setup(
     include_package_data=True,
     install_requires=[
         'pandas==1.0.3',
-        'numpy==1.17.2',
+        'numpy==1.22.0',
         'sympy==1.4',
         'scipy==1.3.1',
         'xlsxwriter==1.2.1',
