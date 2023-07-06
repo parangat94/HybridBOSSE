@@ -47,7 +47,7 @@ setup(
         'pandas==1.0.3',
         'numpy==1.17.2',
         'sympy==1.4',
-        'scipy==1.3.1',
+        'scipy==1.10.0',
         'xlsxwriter==1.2.1',
         'xlrd==1.2.0',
         'pytest==5.3.5',
